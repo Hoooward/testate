@@ -1,0 +1,5 @@
+apps:
+  - script   : 'offerApiApp.js'
+    name     : 'offerapi'
+    exec_mode: 'cluster'
+    instances: 0

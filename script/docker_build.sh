@@ -1,0 +1,1 @@
+docker build -t 643619091312.dkr.ecr.ap-northeast-1.amazonaws.com/track_etl:latest .
